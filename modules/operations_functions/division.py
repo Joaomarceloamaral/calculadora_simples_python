@@ -1,4 +1,4 @@
-def divide_two_numbers(number1, number2) -> float:
+def divide_two_numbers(number1: float, number2: float) -> float:
     """
     function that does the division between two numbers
 

@@ -1,4 +1,4 @@
-def multiplicate_two_numbers(number1, number2) -> float:
+def multiplicate_two_numbers(number1: float, number2: float) -> float:
     """
     function that does the multiplication between two numbers.
 

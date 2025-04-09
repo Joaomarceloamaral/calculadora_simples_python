@@ -1,4 +1,4 @@
-def sum_two_numbers(number1, number2) -> float:
+def sum_two_numbers(number1: float, number2: float) -> float:
     """
     function that does the sum between two numbers.
 
