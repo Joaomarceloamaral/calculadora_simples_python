@@ -1,4 +1,4 @@
-def subtract_two_numbers(number1, number2) -> float:
+def subtract_two_numbers(number1: float, number2: float) -> float:
     """
     function that does the subtraction between two numbers.
 
